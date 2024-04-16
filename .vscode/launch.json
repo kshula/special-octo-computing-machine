@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "JournalManager",
+            "request": "launch",
+            "mainClass": "JournalManager",
+            "projectName": "science_f19cdf3a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "StockAnalyzer",
+            "request": "launch",
+            "mainClass": "StockAnalyzer",
+            "projectName": "science_f19cdf3a"
+        }
+    ]
+}
